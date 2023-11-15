@@ -1,0 +1,1 @@
+export const PRODUCT_API = "https://jhattse.com/api/v1/products/popular/?category_id=2841&skip=0&limit=20";
