@@ -17,7 +17,7 @@ const Body = () => {
   }, []);
 
   if (!products) return null;
-  console.log(products[3]);
+  
 
   return (
     <div>
